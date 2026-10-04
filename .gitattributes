@@ -1,0 +1,12 @@
+# Python ko detect karne ke liye
+*.py linguist-vendored=false
+scripts/** linguist-vendored=false
+
+# docs folder ko documentation manne se mana karein, taaki HTML/CSS/JS count hon
+docs/** linguist-documentation=false
+
+# In sabhi languages ko explicitly detect karne ka instruction
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+*.js linguist-detectable=true
+*.sql linguist-detectable=true
