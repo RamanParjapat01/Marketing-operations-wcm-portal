@@ -1,13 +1,4 @@
-# Marketing Campaign Performance Dashboard
 
-[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue?style=flat-square)](https://girishshenoy16.github.io/marketing-campaign-performance-dashboard/)
-[![Python](https://img.shields.io/badge/Python-3.11+-blue?style=flat-square&logo=python)](https://python.org)
-[![Chart.js](https://img.shields.io/badge/Chart.js-4.4-red?style=flat-square&logo=chartdotjs)](https://www.chartjs.org/)
-[![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-
-🔗 **Live Dashboard:** [https://girishshenoy16.github.io/marketing-campaign-performance-dashboard/](https://girishshenoy16.github.io/marketing-campaign-performance-dashboard/)
-
----
 
 ![Marketing Campaign Performance Dashboard](screenshots/dashboard_overview.png)
 
@@ -203,7 +194,7 @@ marketing-campaign-performance-dashboard/
 
 ```bash
 # 1. Clone or download the repository
-git clone https://github.com/girishshenoy16/marketing-campaign-performance-dashboard.git
+git clonehttps://github.com/RamanParjapat01/Marketing-operations-wcm-portal
 cd marketing-campaign-performance-dashboard
 
 # 2. Create virtual environment
@@ -234,10 +225,3 @@ python -m http.server 8000 --directory docs
 ```
 Then navigate to **`http://localhost:8000`** in your browser.
 
----
-
-## Connect
-
-**Built by:** [Girish Shenoy](https://github.com/girishshenoy16)
-
-**GitHub:** [https://github.com/girishshenoy16/marketing-campaign-performance-dashboard](https://github.com/girishshenoy16/marketing-campaign-performance-dashboard)
