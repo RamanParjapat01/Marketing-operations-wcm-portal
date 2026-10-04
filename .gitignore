@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.env
+.venv
+pip-wheel-metadata/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+# GitHub ko bolo ki docs folder ko ignore na kare
+docs/* linguist-documentation=false
+docs/js/* linguist-detectable=true
+docs/*.css linguist-detectable=true
+docs/*.html linguist-detectable=true
+
+# Python scripts ko ignore kare taaki sirf HTML/CSS/JS highlight ho
+scripts/* linguist-vendored
